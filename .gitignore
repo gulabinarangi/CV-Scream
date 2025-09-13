@@ -1,0 +1,20 @@
+# IDE configuration
+.idea/
+
+# Python virtual environment
+screamenv/
+venv/
+*.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Temporary runtime folders
+uploads/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
